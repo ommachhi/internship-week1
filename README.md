@@ -54,3 +54,7 @@ This repository contains my work completed during a 4-week Python internship. It
 ---
 
 ## 📂 Repository Structure
+week1/
+week2/
+week3/
+week4/
